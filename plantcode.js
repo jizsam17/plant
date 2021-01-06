@@ -33,6 +33,10 @@
              }
 
             }
+
+            static message=()=>{
+                alert("Added to cart.");
+            }
         }
 
        
